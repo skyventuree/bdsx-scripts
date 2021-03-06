@@ -9,10 +9,10 @@ command.hook.on((cmd: string, origin: any) => {
         if (textc.startsWith("/")) {
             server.executeCommand(`execute {playerName} ~ ~ ~ {textc}`, res => {
                 console.log(res);
-            }
+            })
         } else {
             tellraw("@a", `<{playerName}> {textc}`);
             }
     }
     return 0;
-}
+})
