@@ -16,7 +16,7 @@ import { NativeModule, RawTypeId, VoidPointer } from "bdsx";
 
 
 // Set Console Window Name  *   *   *   *
-let windowName = "BDSX - BedrockServer"
+let windowName = "BDSX Session"
 //  *   *   *   *   *   *   *   *   *   *
 
 const kernel32 = NativeModule.load('Kernel32.dll');
@@ -39,4 +39,6 @@ import './transferserver';
 //IMPORT tdtp (Transdimentional Teleport) script
 import './tdtp';
 
-import './warplist';
+import './home';
+
+import './tellraw';
