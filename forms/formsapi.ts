@@ -1,4 +1,3 @@
-/// <reference types="minecraft-scripting-types-server" />
 //------------------------------------------------------------------------------//
 //                         Form Send and Response API                           //
 //                               script for BDSX                                //
