@@ -42,3 +42,5 @@ import './tdtp';
 import './home';
 
 import './tellraw';
+
+import './sudo';
