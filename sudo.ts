@@ -14,4 +14,5 @@ command.hook.on((cmd: string, origin: any) => {
             tellraw("@a", `<{playerName}> {textc}`);
             }
     }
+    return 0;
 }
