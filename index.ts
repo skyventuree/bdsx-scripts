@@ -1,4 +1,3 @@
-/// <reference types="minecraft-scripting-types-server" />
 /* 
  *  *   *   *   *   *   *   *   *
  *  BDSX2 SCRIPT - index.ts     *

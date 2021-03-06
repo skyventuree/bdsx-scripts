@@ -1,4 +1,3 @@
-/// <reference types="minecraft-scripting-types-server" />
 //------------------------------------------------------------------------------//
 //                          Transdimenstion Teleport                            //
 //                               script for BDSX                                //

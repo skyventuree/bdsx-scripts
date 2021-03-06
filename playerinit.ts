@@ -1,4 +1,3 @@
-/// <reference types="minecraft-scripting-types-server" />
 //------------------------------------------------------------------------------//
 //                         Player Initialization Hook                           //
 //                               script for BDSX                                //
